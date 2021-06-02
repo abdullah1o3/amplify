@@ -1,1 +1,1 @@
-eeelo hello bye
+Hello, this is a new trigger
