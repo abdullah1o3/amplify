@@ -1,0 +1,9 @@
+{
+  "function": {
+    "hellonextf352ca0d": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  }
+}
